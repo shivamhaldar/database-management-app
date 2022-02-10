@@ -90,6 +90,8 @@ class SecondPage(tk.Frame):
 
         t1 = tk.Entry(self, width=30, bd=5)
         t1.place(x=300, y=100)
+        
+        /*HERE YOU CAN ADD DATABASE CONNECTION BUTTON OR CODE FOR EXECUTION*/
 
         Button = tk.Button(self, text="Next", font=("Arial", 15), command=lambda: controller.show_frame(ThirdPage))
         Button.place(x=650, y=450)
