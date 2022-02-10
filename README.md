@@ -10,7 +10,7 @@ Note : You have to register for login in the system then you can execute query i
 
 # Application View Window :
 
-Python IDE :
+## Python IDE :
 
 ![2](https://user-images.githubusercontent.com/94775990/153358921-90acfef0-d902-423c-a819-b0deb051fe93.png)
 
