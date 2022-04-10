@@ -1,4 +1,4 @@
-# (School-College)-Management-System :
+# (Database)-Management-Script :
 
 In this Project :
 
